@@ -43,11 +43,7 @@
 - ## 🗣️ Você pode entrar em contato comigo pelo linkedin ou gmail.
 
 
-<p align="left">
-  <a href="https://linkedin.com/in/thiagopederzollimdasilva" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thiagopederzollimdasilva" height="24" width="24" />
-  </a>
-  <a href="mailto:thiagopederzolli@gmail.com" target="blank">
-    <img align="center" src="https://t3.ftcdn.net/jpg/01/81/00/34/240_F_181003490_CxW4fQ0H3VypIIsPkFGpMDviO8ysWjOZ.jpg" alt="thiagopederzolli@gmail.com" height="24" width="24" />
-  </a>
- </p>
+ [![Linkedin Badge](https://img.shields.io/badge/-ThiagoPederzolli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagopederzollimdasilva/)](https://www.linkedin.com/in/thiagopederzollimdasilva/) 
+|| 
+[![Gmail Badge](https://img.shields.io/badge/-thiagopederzolli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagopederzolli@gmail.com)](mailto:thiagopederzolli@gmail.com)
+
