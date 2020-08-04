@@ -1,16 +1,53 @@
-### Hi there 👋
+- ## Olá pessoal 👋
+<h6 align="left">
+:point_up: Hoje em dia sou um estudante FullStack na Trybe e Rocketseat. Enquanto na Alura faço a formação Front-end.
+<br/><br/>  👨🏻‍💻 A parte que realmente me atrai é o Front-end, por isso além de estudar programação busco consumir conteúdos relacionados a Design e UX/UI. Atualmente curso o Gama Start de Design UX/UI para complementar os estudos nessa área.
+<br/><br/> 🧐 Trabalho também com psicologia clínica de orientação psicanálitica e tenho uma base de estudos na filosofia, onde participei por um tempo no mestrado como aluno especial. 
+<br/><br/>:computer: Optei por migrar para programação por me encantar com a comunidade, as trocas e a possibilidade de evoluir ajudando inúmeras pessoas a evoluir também.
+</h6>
 
-<!--
-**ThiagoPederzolli/ThiagoPederzolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ## :rocket: Atualmente as tecnologias que venho estudando são:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopederzolli&layout=compact&hide=python" alt="thiagopederzolli" width="300" height="300" />
+</p>
+
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="36" height="36"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="36" height="36"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="36" height="36"/> 
+</p>
+
+<h6>
+🧙‍♂️ Além de estudar essas tecnologias, busco contribuir com a comunidade através de artigos e auxiliando quem eu puder ao longo do processo de aprendizado seja com questões técnicas ou dicas de estudos, sites com conteúdos e até mesmo só conversando sobre situações da vida para amenizar a tensão. Então, no que eu puder ajudar, conte comigo!
+</h6>
+
+<p align="center">
+  <img src="https://ik.imagekit.io/iseca49kdh/cattype_cOZpJ_qq3b.gif" />
+</p>
+
+
+- ## 💬  &nbsp; No meu tempo livre minhas atividades envolvem:
+
+
+<p>
+<br/> - :headphones: Ouvir música! Bandas favoritas: Blind Guardian, Amon Amarth, Metallica, Iron Maiden, Therion, Amorphis, My Dying Bride e Anathema;
+<br/> - :video_game: Jogar! Jogos favoritos: Ultima Online, Wolrd of Warcraft, Overwatch, Brutal Legend e Valorant;
+<br/> - :books: Ler! Autores favoritos: Tolkien, Bernard Cornwell, Carlos Ruiz Zafón, Ernest Hemingway, Lacan, Winnicott, Nietzsche e Heidegger;
+<br/> - :tv: Assistir séries! Séries favoritas: Criminal Minds, Vikings, Sons Of Anarchy, Psych, O Asssassino de Valhalla, Bordertown, MindHunter e Dark.
+ </p>
+
+
+- ## 🗣️ Você pode entrar em contato comigo pelo linkedin ou gmail.
+
+
+<p align="left">
+  <a href="https://linkedin.com/in/thiagopederzollimdasilva" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thiagopederzollimdasilva" height="24" width="24" />
+  </a>
+  <a href="mailto:thiagopederzolli@gmail.com" target="_blank">
+    <img align="center" src="https://t3.ftcdn.net/jpg/01/81/00/34/240_F_181003490_CxW4fQ0H3VypIIsPkFGpMDviO8ysWjOZ.jpg" alt="thiagopederzolli@gmail.com" height="24" width="24" />
+  </a>
+ </p>
