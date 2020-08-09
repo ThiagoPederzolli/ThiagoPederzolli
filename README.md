@@ -44,7 +44,7 @@
 <h3 align="center">Live Coding na Twicth</h3>
 <h6 align="center"> 
   <i>link na imagem abaixo</i><br>
-  <a href="" target="_blank">
+  <a href="https://www.twitch.tv/thiagotroll_dev" target="_blank">
     <img  src="https://ik.imagekit.io/iseca49kdh/perfil_QLCnCJot7.png" width="250" height="250">
   </a>
 </h6>
