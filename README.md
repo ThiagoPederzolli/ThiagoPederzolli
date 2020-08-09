@@ -1,11 +1,23 @@
-- ## Olá pessoal 👋
-<h6 align="left">
-:point_up: Hoje em dia sou um estudante FullStack na Trybe e Rocketseat. Enquanto na Alura faço a formação Front-end.
-<br/><br/>  👨🏻‍💻 A parte que realmente me atrai é o Front-end, por isso além de estudar programação busco consumir conteúdos relacionados a Design e UX/UI. Atualmente curso o Gama Start de Design UX/UI para complementar os estudos nessa área.
-<br/><br/> 🧐 Trabalho também com psicologia clínica de orientação psicanálitica e tenho uma base de estudos na filosofia, onde participei por um tempo no mestrado como aluno especial. 
-<br/><br/>:computer: Optei por migrar para programação por me encantar com a comunidade, as trocas e a possibilidade de evoluir ajudando inúmeras pessoas a evoluir também.
-</h6>
+- # Olá pessoal 👋
 
+## :point_up: Sou o Thiago, mas meus amigos me chamam de Troll
+🚀 Sou Estudante de desenvolvimento front-end:
+  <h5 align="center">
+    <img src="https://ik.imagekit.io/iseca49kdh/trybepequena_asv2zegm5.jpg" width="200" height="100">
+    <img src="https://ik.imagekit.io/iseca49kdh/launchbase_9Xv5dQGT6.jpg" width="200" height="100">
+  </h5>
+  
+:framed_picture: Também estudo sobre Design UX/UI na Gama Academy e na Origamid.
+
+🤓 Sou, também, psicólogo de orientação psicanalítica e estudo filosofia nas horas vagas.
+
+💙 Minhas paixões além da programação são a gastronomia, música, séries, jogos e RPG.<br>
+:headphones: Bandas favoritas: Blind Guardian, Amon Amarth, Metallica, Iron Maiden, Therion, Amorphis, My Dying Bride e Anathema;<br>
+:video_game: Jogos favoritos: Ultima Online, Wolrd of Warcraft, Overwatch, Brutal Legend e Valorant;<br>
+:books: Autores favoritos: Tolkien, Bernard Cornwell, Carlos Ruiz Zafón, Ernest Hemingway, Lacan, Winnicott, Nietzsche e Heidegger;<br>
+:tv: Séries favoritas: Criminal Minds, Vikings, Sons Of Anarchy, Psych, O Asssassino de Valhalla, Bordertown, MindHunter e Dark.  <br> 
+
+---
 
 - ## :rocket: Atualmente as tecnologias que venho estudando são:
 
@@ -20,30 +32,39 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="36" height="36"/> 
 </p>
 
-<h6>
-🧙‍♂️ Além de estudar essas tecnologias, busco contribuir com a comunidade através de artigos e auxiliando quem eu puder ao longo do processo de aprendizado seja com questões técnicas ou dicas de estudos, sites com conteúdos e até mesmo só conversando sobre situações da vida para amenizar a tensão. Então, no que eu puder ajudar, conte comigo!
+---
+
+
+## :scroll: Contribuições para comunidade:
+🧠 Uma das melhores formas de evoluir como programador tem sido compartilhar o conhecimento com a comunidade e auxiliar os demais colegas a alavancarem suas carreiras também.
+<h5>
+- :writing_hand: Escrevendo artigos no Linkedin<br>
+- :movie_camera: canal no <strong><a href="https://www.youtube.com/channel/UC7g1-UanEwRBYmzvoX8ADhA" target="_blank">Youtube</a></strong>
+</h5>
+<h3 align="center">Live Coding na Twicth</h3>
+<h6 align="center"> 
+  <i>link na imagem abaixo</i><br>
+  <a href="" target="_blank">
+    <img  src="https://ik.imagekit.io/iseca49kdh/perfil_QLCnCJot7.png" width="250" height="250">
+  </a>
 </h6>
 
-<p align="center">
-  <img src="https://ik.imagekit.io/iseca49kdh/cattype_cOZpJ_qq3b.gif" />
-</p>
 
-
-- ## 💬  &nbsp; No meu tempo livre minhas atividades envolvem:
-
-
-<p>
-<br/> - :headphones: Ouvir música! Bandas favoritas: Blind Guardian, Amon Amarth, Metallica, Iron Maiden, Therion, Amorphis, My Dying Bride e Anathema;
-<br/> - :video_game: Jogar! Jogos favoritos: Ultima Online, Wolrd of Warcraft, Overwatch, Brutal Legend e Valorant;
-<br/> - :books: Ler! Autores favoritos: Tolkien, Bernard Cornwell, Carlos Ruiz Zafón, Ernest Hemingway, Lacan, Winnicott, Nietzsche e Heidegger;
-<br/> - :tv: Assistir séries! Séries favoritas: Criminal Minds, Vikings, Sons Of Anarchy, Psych, O Asssassino de Valhalla, Bordertown, MindHunter e Dark.
- </p>
-
+---
 
 - ## 🗣️ Você pode entrar em contato comigo pelo linkedin ou gmail.
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-ThiagoPederzolli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagopederzollimdasilva/)](https://www.linkedin.com/in/thiagopederzollimdasilva/) 
+<h3 align="center">
+  No que eu puder ajudar, conte comigo!<br>
+  <img src="https://ik.imagekit.io/iseca49kdh/cattype_cOZpJ_qq3b.gif">
+</h3>
+</p>
+<h4 align="center">
+  💭"Sozinho se vai mais rápido, juntos vamos mais longe"
+</h4>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-ThiagoPederzolli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagopederzollimdasilva/)](https://www.linkedin.com/in/thiagopederzollimdasilva/) 
 || 
 [![Gmail Badge](https://img.shields.io/badge/-thiagopederzolli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagopederzolli@gmail.com)](mailto:thiagopederzolli@gmail.com)
-
