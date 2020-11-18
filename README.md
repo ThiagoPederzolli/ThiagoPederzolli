@@ -38,16 +38,22 @@
 ## :scroll: Contribuições para comunidade:
 🧠 Uma das melhores formas de evoluir como programador tem sido compartilhar o conhecimento com a comunidade e auxiliar os demais colegas a alavancarem suas carreiras também.
 <h5>
-- :writing_hand: Escrevendo artigos no Linkedin<br>
-- :movie_camera: canal no <strong><a href="https://www.youtube.com/channel/UC7g1-UanEwRBYmzvoX8ADhA" target="_blank">Youtube</a></strong>
+- :writing_hand: Escrevendo artigos no <a href="https://dev.to/thiagopederzolli" target="_blank">Dev.To</a><br>
 </h5>
-<h3 align="center">Live Coding na Twicth</h3>
-<h6 align="center"> 
-  <i>link na imagem abaixo</i><br>
-  <a href="https://www.twitch.tv/thiagotroll_dev" target="_blank">
-    <img  src="https://ik.imagekit.io/iseca49kdh/perfil_QLCnCJot7.png" width="250" height="250">
-  </a>
+<h3 align="center">Space Squad:</h3>
+<h6 align="center">
+     <img  src="https://i.imgur.com/Ie8xquU.jpg" height="100">
 </h6>
+<p>
+O SpaceSquad é um grupo de alunos que por adorarem compartilhar conhecimento na comunidade, acabaram se destacando e foram convidados pela rocketseat, para através do voluntariado, auxiliarmos ainda mais devs e a comunidade em geral, a alcançarem um novo nível em suas vidas e carreiras.
+</p>
+<p>
+Esse auxio pode ser realizado respondendo a perguntas da comunidade no Discord, auxiliar nos comentários do YouTube, publicando artigos, vídeos ou qualquer outro conhecimento que possa contribuir para o crescimento pessoal e profissional das pessoas.
+</p>
+<p>
+Estou fazendo parte deste grupo como mentor, onde dou o máximo de mim para auxiliar no crescimento das pessoas e crescer junto com elas.
+Vamos dividir o assento do foguete com todos que quiserem embarcar!
+</p>
 
 
 ---
