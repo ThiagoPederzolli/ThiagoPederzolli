@@ -1,7 +1,9 @@
 - # Olá pessoal 👋
 
 ## :point_up: Sou o Thiago, mas meus amigos me chamam de Troll
+
 🚀 Sou Estudante de desenvolvimento front-end:
+
   <h5 align="center">
     <img src="https://ik.imagekit.io/iseca49kdh/trybepequena_asv2zegm5.jpg" width="200" height="100">
     <img src="https://ik.imagekit.io/iseca49kdh/launchbase_9Xv5dQGT6.jpg" width="200" height="100">
@@ -15,7 +17,7 @@
 :headphones: Bandas favoritas: Blind Guardian, Amon Amarth, Metallica, Iron Maiden, Therion, Amorphis, My Dying Bride e Anathema;<br>
 :video_game: Jogos favoritos: Ultima Online, Wolrd of Warcraft, Overwatch, Brutal Legend e Valorant;<br>
 :books: Autores favoritos: Tolkien, Bernard Cornwell, Carlos Ruiz Zafón, Ernest Hemingway, Lacan, Winnicott, Nietzsche e Heidegger;<br>
-:tv: Séries favoritas: Criminal Minds, Vikings, Sons Of Anarchy, Psych, O Asssassino de Valhalla, Bordertown, MindHunter e Dark.  <br> 
+:tv: Séries favoritas: Criminal Minds, Vikings, Sons Of Anarchy, Psych, O Asssassino de Valhalla, Bordertown, MindHunter e Dark. <br>
 
 ---
 
@@ -26,17 +28,18 @@
 </p>
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="36" height="36"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="36" height="36"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="36" height="36"/> 
+  <img src="./assets/css3-original.svg" alt="css3"  width="36" height="36"/> 
+  <img src="./assets/html5-original.svg" alt="html5"  width="36" height="36"/>
+  <img src="./assets/javascript-original.svg" alt="javascript" width="36" height="36"/>
+  <img src="./assets/react-original.svg" alt="react" width="36" height="36"/> 
 </p>
 
 ---
 
-
 ## :scroll: Contribuições para comunidade:
+
 🧠 Uma das melhores formas de evoluir como programador tem sido compartilhar o conhecimento com a comunidade e auxiliar os demais colegas a alavancarem suas carreiras também.
+
 <h5>
 - :writing_hand: Escrevendo artigos no <a href="https://dev.to/thiagopederzolli" target="_blank">Dev.To</a><br>
 </h5>
@@ -55,11 +58,9 @@ Estou fazendo parte deste grupo como mentor, onde dou o máximo de mim para auxi
 Vamos dividir o assento do foguete com todos que quiserem embarcar!
 </p>
 
-
 ---
 
 - ## 🗣️ Você pode entrar em contato comigo pelo linkedin ou gmail.
-
 
 <h3 align="center">
   No que eu puder ajudar, conte comigo!<br>
@@ -70,7 +71,6 @@ Vamos dividir o assento do foguete com todos que quiserem embarcar!
   💭"Sozinho se vai mais rápido, juntos vamos mais longe"
 </h4>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-ThiagoPederzolli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagopederzollimdasilva/)](https://www.linkedin.com/in/thiagopederzollimdasilva/) 
-|| 
+[![Linkedin Badge](https://img.shields.io/badge/-ThiagoPederzolli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagopederzollimdasilva/)](https://www.linkedin.com/in/thiagopederzollimdasilva/)
+||
 [![Gmail Badge](https://img.shields.io/badge/-thiagopederzolli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagopederzolli@gmail.com)](mailto:thiagopederzolli@gmail.com)
