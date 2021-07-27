@@ -2,14 +2,12 @@
 
 ## :point_up: Sou o Thiago, mas meus amigos me chamam de Troll
 
-🚀 Sou Estudante de desenvolvimento front-end:
+🚀 Sou Jr. Front-end Engineer na POSSIBLE BRAZIL:
 
   <h5 align="center">
-    <img src="https://ik.imagekit.io/iseca49kdh/trybepequena_asv2zegm5.jpg" width="200" height="100">
-    <img src="https://ik.imagekit.io/iseca49kdh/launchbase_9Xv5dQGT6.jpg" width="200" height="100">
+    <img src="https://assets.agencyspotter.com/uploads/agency_image/image/25589/resized_POSSIBLE_Desktop_Wallpaper_03.jpg" width="200" height="100">
   </h5>
   
-:framed_picture: Também estudo sobre Design UX/UI na Gama Academy e na Origamid.
 
 🤓 Sou, também, psicólogo de orientação psicanalítica e estudo filosofia nas horas vagas.
 
