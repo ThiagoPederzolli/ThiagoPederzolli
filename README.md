@@ -9,6 +9,11 @@ Im a Frontend Software Engineer.
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscodium&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
+[If you want to go directly to what I'm currently studying](https://github.com/ThiagoPederzolli/react-complete-guide/blob/main/README.md)
+
+
+[If you want to go directly to the last project that I developed](https://github.com/ThiagoPederzolli/react-complete-guide/tree/main/food-order-app)
+
 
 ## :scroll:
 I used to write some posts of, at first, basic React and CSS content, you can find some stuff on my <a href="https://dev.to/thiagopederzolli" target="_blank">:writing_hand: Dev.To</a>
